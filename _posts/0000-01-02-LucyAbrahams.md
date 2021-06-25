@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+GitHub training for Lucy Abrahams
 Use the left arrow to go back!
